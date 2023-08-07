@@ -2,9 +2,8 @@
 
 Faster, bit-reversed, FFT in CL
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/pkhuong/Napa-FFT3.git   |
-| commit  | f2d9614  |
-| systems | Napa-FFT3 |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/pkhuong/Napa-FFT3.git |
+| commit  | f2d9614                                      |
+| systems | napa-fft3                                    |
+|---------+----------------------------------------------|
